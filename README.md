@@ -1,4 +1,4 @@
-### Hi there, I'm [Arthur][website] 👋
+### Hi there, I'm Arthur 👋
 
 ## I'm a Developer, a Student, and still learning a lot !!
 
