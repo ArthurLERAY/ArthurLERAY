@@ -1,10 +1,10 @@
 ### Hi there, I'm Arthur 👋
 
-## I'm a Developer, a Student, and still learning a lot !!
+## I'm a French full stack developer !!
 
 - 🔭 I'm still trying to learn as much as I can!
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute to Open Source projects on GitHub
+- 🥅 2023 Goals: Contribute to Open Source projects on GitHub
 
 ### Connect with me:
 
